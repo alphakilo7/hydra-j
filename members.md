@@ -17,3 +17,20 @@ The default gap between two components is 15px. For custom gap, the second metho
 This method is same as above one, but it takes on parameter extra.  
 
 `int gap` : This is the custom gap between two components.
+
+***
+***
+## Member Variables
+
+### `public static int TOP`  
+`value = 1`
+Specifies child on top of parent.  
+### `public static int BOTTOM`  
+`value = 2`  
+Specifies child at the bottom of parent  
+### `public static int LEFT`  
+`value = 3`  
+Specifies child on the left of the parent  
+### `public static int RIGHT`  
+`value = 4`  
+Specifies child on the right of the parent
