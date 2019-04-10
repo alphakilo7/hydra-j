@@ -20,7 +20,7 @@ This method is same as above one, but it takes on parameter extra.
 ## Member Variables
 
 ### `public static int TOP`  
-`value = 1`
+`value = 1`  
 Specifies child on top of parent.  
 ### `public static int BOTTOM`  
 `value = 2`  
