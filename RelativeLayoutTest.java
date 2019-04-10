@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
-import hydra.RelativeLayout;
+import hydra_j.RelativeLayout;
 
 public class RelativeLayoutTest {
 	JFrame fr;
