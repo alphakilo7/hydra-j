@@ -1,7 +1,7 @@
 # Hydra-Java
 ## RelativeLayout version1.0
 
-As every Java and/or Android developer is aware, the in Android programming, there is a layout manager name *RelativeLayout*. As far as my knowledge about Java and Android is considered, *RelativeLayout* does not exist for standard java AWT, Swing, SWT. In this project, I tried to create a layout manager that works like Android's *RelativeLayout*. Although it is a layout, it actually isn't! It is actually a member method of *RelativeLayout* class that manages the relation of JComponents.  
+As every Java and/or Android developer is aware that in Android programming there is a layout manager named *RelativeLayout*. As far as my knowledge about Java and Android is considered, *RelativeLayout* manager does not exist for standard java AWT, Swing, SWT. In this project, I tried to create a layout manager that works like Android's *RelativeLayout*. Although it is a layout, it actually isn't! It is actually a member method of *RelativeLayout* class that manages the relation of JComponents.  
 
 The *RelativeLayout* has two methods.
 
