@@ -1,9 +1,16 @@
+/**
+  * CopyLeft (CL) Atharva Kale 2019
+  *
+  *
+  * Licensed under GNU GPL v3.0
+  *
+  *
+  * You are free to use this code to develop your own Java
+  * GUI Application. ;)
+  */
+
+
 package hydra_j;
-
-// Package: Hydra
-// Class  : public~RelativeLayout
-
-// RelativeLayoutv1.0
 
 import java.awt.*;
 import java.awt.event.*;
@@ -24,12 +31,10 @@ public class RelativeLayout extends JLabel {
 	private static int thisX, thisY;
 	private static int flag;
 
-	// Constructor
 	public RelativeLayout() {
 		// Do-Nothing
 	}
 
-	// Method
 	public void $(JComponent child, int where, JComponent parent) {
 		// var parent
 		parentX = parent.getX();
@@ -76,7 +81,7 @@ public class RelativeLayout extends JLabel {
 		}
 	}
 
-	// Method
+	
 	public void $(JComponent child, int where, JComponent parent, int gap) {
 		parentX = parent.getX();
 		parentY = parent.getY();
