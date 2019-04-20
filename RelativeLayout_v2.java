@@ -1,8 +1,16 @@
 package hydra;
 
-// Package: Hydra
-// Class  : public~RelativeLayout_v2
-// Version: 2
+
+/**
+  * CopyLeft (CL) Atharva Kale 2019
+  *
+  *
+  * Licensed under GNU GPL v3.0
+  *
+  *
+  * You are free to use this code to develop your own Java
+  * GUI Application. ;)
+  */
 
 import java.awt.*;
 import java.awt.event.*;
