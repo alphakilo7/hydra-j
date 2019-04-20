@@ -10,7 +10,7 @@
   */
 
 
-package hydra_j;
+package hydra;
 
 import java.awt.*;
 import java.awt.event.*;
